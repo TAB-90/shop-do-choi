@@ -18,6 +18,8 @@
 # Sơ đồ class diagram
 ![deepseek_mermaid_20250625_34294a](https://github.com/user-attachments/assets/e8544547-1b7d-4319-84cd-4117cc7ced39)
 
+# Sơ đồ Activity Diagram
+![deepseek_mermaid_20250625_11d005](https://github.com/user-attachments/assets/c982ca5a-b539-48d0-a12c-1eaaf4ffe560)
 
 # Sơ đồ thuật toán
 ![deepseek_mermaid_20250625_694871](https://github.com/user-attachments/assets/70615228-577f-4ef8-9d2f-6bec48c6e79f)
