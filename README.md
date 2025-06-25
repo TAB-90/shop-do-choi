@@ -27,6 +27,18 @@
 # Sơ đồ chức năng
 ![deepseek_mermaid_20250625_4990d2](https://github.com/user-attachments/assets/1572d6a9-dab1-4f13-a9c2-ea31ead67eaa)
 
+# Module:
+-**composer**:
+
+
+-**co**:
+
+
+
+
+
+
+
 
 # Cách chạy dự án
 
@@ -39,8 +51,6 @@ Chỉnh sửa thông tin DB, sau đó:
 php artisan key:generate
 php artisan migrate --seed
 php artisan serve
-
-
 
 
 
