@@ -30,6 +30,12 @@
 # Module:
 -**composer**:
 
+file `ProductController.php`. Đây thường là một **Controller** trong Laravel – chịu trách nhiệm xử lý logic giữa **model** và **view**.
+
+
+
+
+
 
 -**co**:
 
