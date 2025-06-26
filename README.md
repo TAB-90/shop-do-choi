@@ -262,7 +262,7 @@ class Product extends Model
 
 <a href = '' ><li>View AppLayout.php </li></a>
 
-<?php
+.php
 
 namespace App\View\Components;
 
