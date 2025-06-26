@@ -29,9 +29,7 @@
 
 # Cơ sở dữ liệu 
 
-# Model
-
--**Cách chạy dự án**:
+# Cách chạy dự án
 
 git clone [link repo]
 cd [tên thư mục]
@@ -42,10 +40,13 @@ php artisan key:generate
 php artisan migrate --seed
 php artisan serve
 
-# Product Controller.php
+# Model
 
-<?php
 
+ <a href = '' ><li> Product Controller.php </li></a>
+
+
+  .php
 namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
@@ -115,7 +116,7 @@ class ProductController extends Controller
 <a href = '' ><li>Customer Controller.php </li></a>
 
 
-<?php
+.php
 
 namespace App\Http\Controllers\Admin;
 
@@ -185,7 +186,7 @@ class CustomerController extends Controller
 
 <a href = '' ><Model user.php </li></a>
 
-<?php
+.php
 
 namespace App\Models;
 
@@ -242,6 +243,43 @@ class User extends Authenticatable
         ];
     }
 }
+
+
+<a href = '' ><li>Model product.php </li></a>
+
+.php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class Product extends Model
+{
+    //
+}
+
+
+
+<a href = '' ><li>View AppLayout.php </li></a>
+
+<?php
+
+namespace App\View\Components;
+
+use Illuminate\View\Component;
+use Illuminate\View\View;
+
+class AppLayout extends Component
+{
+    /**
+     * Get the view / contents that represents the component.
+     */
+    public function render(): View
+    {
+        return view('layouts.app');
+    }
+}
+
 
 
 
