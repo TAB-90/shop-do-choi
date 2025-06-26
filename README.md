@@ -27,7 +27,6 @@
 # Sơ đồ chức năng
 ![deepseek_mermaid_20250625_4990d2](https://github.com/user-attachments/assets/1572d6a9-dab1-4f13-a9c2-ea31ead67eaa)
 
-# Cơ sở dữ liệu 
 
 # Cách chạy dự án
 
@@ -43,7 +42,20 @@ php artisan serve
 # Giao diện chính
 ![image](https://github.com/user-attachments/assets/8344b7d3-a30a-4346-b05a-22e9997a78de)
 
+# Giao diện danh mục sản phẩm
+![image](https://github.com/user-attachments/assets/14627e90-228c-43cb-a3ed-e390130cdb95)
 
+# Giao diện đăng nhập, đăng ký
+![image](https://github.com/user-attachments/assets/fd770d1e-5cd2-480b-9f43-39cee5b3e606)
+
+# Giao điện thanh toán
+![image](https://github.com/user-attachments/assets/5fa7d0f2-6139-4654-8884-5c6e4237f8d3)
+
+# Giao diện sản phẩm được yêu thích nhất
+![image](https://github.com/user-attachments/assets/52adf91d-88f2-4f33-92df-58a0ba9ba31a)
+
+# Giao diện sản phẩm bán chạy
+![image](https://github.com/user-attachments/assets/736ceda1-c712-48d0-bdba-5219d6bcc4ac)
 
 
 # Model
