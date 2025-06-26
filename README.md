@@ -32,7 +32,7 @@
 # Model
 
 -**Cách chạy dự án**:
-```bash
+
 git clone [link repo]
 cd [tên thư mục]
 composer install
@@ -42,8 +42,7 @@ php artisan key:generate
 php artisan migrate --seed
 php artisan serve
 
-
-<a href = '' ><li>Product Controller.php </li></a>
+# Product Controller.php
 
 <?php
 
