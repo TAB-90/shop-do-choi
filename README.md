@@ -40,6 +40,12 @@ php artisan key:generate
 php artisan migrate --seed
 php artisan serve
 
+# Giao diện chính
+![image](https://github.com/user-attachments/assets/8344b7d3-a30a-4346-b05a-22e9997a78de)
+
+
+
+
 # Model
 
 
